@@ -13,6 +13,10 @@
 
 <br>
 
+[![An image of @heetvekariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/heetvekariya)](https://holopin.io/@heetvekariya)
+
+<br>
+
 <h3 align="left">💫 My Tech Adventures: From Code to Crowning Glory!</h3>
 
 - 🌍 **Hacksquad 2023 Winner**: Triumphed in an [open-source team competition](https://www.hacksquad.dev/team/0xw3th3b3s1-xmlwV/).
