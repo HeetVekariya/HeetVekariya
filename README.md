@@ -8,7 +8,6 @@
 - 👯 I’m open to collaborations on **Machine Learning Projects**
 - 💬 Ask me about **Machine Learning Algorithms, Python, Data Analysis**
 - 📫 How to reach me: **heetvekariya50@gmail.com**
-- ⚡ Fun fact: **Open sourcing my AI jokes - because even algorithms need a good laugh! 🤖**
 
 <br>
 <hr>
