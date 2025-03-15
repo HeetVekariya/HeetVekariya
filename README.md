@@ -28,8 +28,7 @@
 <br>
 <hr>
 
-<h3 align="left">🏆 My GitHub Trophy Shelf</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HeetVekariya&theme=onedark" alt="heetvekariya" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HeetVekariya&theme=onedark&title=-Reviews" alt="heetvekariya" /></a> </p>
 
 <br>
 
