@@ -8,6 +8,10 @@
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://wakatime.com/badge/user/018d4b3a-af78-47e3-a44b-e2bc2170ae13.svg" />
+</div>
+
 <br>
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
