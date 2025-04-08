@@ -26,7 +26,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HeetVekariya&theme=tokyonight&hide_title=true&hide_border=true" />
 
 - Full Stack Intern at [Veloxcore](https://www.linkedin.com/company/veloxcore)
-- Won three AI hackathons and actively engagging to the open-source community.
+- Won Four AI hackathons and actively engaging to the open-source community.
 - Led my team to the top 2% of 2100+ teams in [HackSquad 2023](https://www.hacksquad.dev/team/0xw3th3b3s1-xmlwV/).
 - Contributed to developing **Lutions Predictor**, a No-Code ML software for quick model training.
 
